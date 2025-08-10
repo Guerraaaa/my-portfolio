@@ -1,11 +1,17 @@
 "use client";
+import About from "./components/About";
+import Experience from "./components/Experience";
 import Hero from "./components/Hero";
+import Project from "./components/Project";
 
 export default function Home() {
   return (
     <>
-      <div className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 text-white flex items-center justify-center">
+      <div>
         <Hero />
+        <About />
+        <Experience />
+        {/* <Project /> */}
       </div>
     </>
   );
