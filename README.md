@@ -1,40 +1,78 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Portfólio - Mario Guerra**  
 
-## Getting Started
+## **📌 Visão Geral**  
+Bem-vindo ao meu portfólio pessoal! 
 
-First, run the development server:
+🔗 **Live Demo:** 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## **🚀 Tecnologias Utilizadas**  
+- **Framework:** Next.js (App Router)  
+- **Estilização:** Tailwind CSS  
+- **Animações:** Framer Motion  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## **✨ Funcionalidades**  
+✅ **Seção Hero** - Apresentação inicial com nome, título e call-to-action  
+✅ **Sobre Mim** - Breve biografia e habilidades técnicas  
+✅ **Experiência Profissional** - Linha do tempo com histórico de carreira    
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## **🛠️ Como Executar Localmente**  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### **Pré-requisitos**  
+- Node.js (v18+)  
+- npm ou yarn  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### **Passos para Instalação**  
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/marioguerra/portfolio.git
+   ```
+2. Acesse a pasta do projeto:  
+   ```bash
+   cd portfolio
+   ```
+3. Instale as dependências:  
+   ```bash
+   npm install
+   # ou
+   yarn install
+   ```
+4. Inicie o servidor de desenvolvimento:  
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   ```
+5. Acesse no navegador:  
+   ```
+   http://localhost:3000
+   ```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## **🔧 Personalização**  
+Para editar informações como nome, projetos e links:  
+1. **Dados Pessoais:** Modifique `/src/data/profile.js`  
+2. **Projetos:** Atualize `/src/data/projects.js`  
+3. **Estilos:** Ajuste as classes Tailwind ou edite `globals.css`  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# my-portfolio
->>>>>>> 8e1c39c276520b0f6de3e4d39072588a49657fdd
+---
+
+## **📄 Licença**  
+Este projeto está sob a licença **MIT**.  
+
+---
+
+## **📬 Contato**  
+- **LinkedIn:** [linkedin.com/in/marioguerra](https://linkedin.com/in/marioguerra)  
+- **GitHub:** [github.com/marioguerra](https://github.com/marioguerra)  
+- **E-mail:** hello@marioguerra.dev  
+
+---
+
+Feito com ❤️ por **Mario Guerra** usando Next.js e Tailwind CSS.  
