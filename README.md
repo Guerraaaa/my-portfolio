@@ -3,7 +3,7 @@
 ## **📌 Visão Geral**  
 Bem-vindo ao meu portfólio pessoal! 
 
-🔗 **Live Demo:** 
+🔗 **Live Demo:** https://my-portfolio-tan-nine-84.vercel.app/
 
 ---
 
